@@ -126,5 +126,4 @@ if __name__ == '__main__':
     print(' #######  #    #  #    #  #####   #       ######  #    #  #    #       # ')
     print(' #     #  #    #  #    #  #   #   #    #  #    #  #    #  #    #  #    # ')
     print(' #     #  #    #   ####   #    #   ####   #    #  #####    ####    ####  ')
-    print('Miguel Zabala Figueroa - Instagram: @miguelzabalaf')
     run()
